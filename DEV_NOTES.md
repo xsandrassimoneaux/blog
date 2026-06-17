@@ -12,3 +12,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-06-03
 - Added CONTRIBUTING.md stub
+
+## 2026-06-17
+- Investigated performance bottleneck, noted findings
+- Verified compatibility with latest runtime version
+- Resolved TODO items from previous session
