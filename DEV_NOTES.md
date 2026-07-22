@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-17
 - Reviewed open issues, added labels
 - Improved error handling in edge cases
+
+## 2026-07-22
+- Noted known limitation in docs
