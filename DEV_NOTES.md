@@ -27,3 +27,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-08-12
 - Documented config options
+
+## 2026-08-12
+- Ran linter, applied auto-fixes
