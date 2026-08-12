@@ -30,3 +30,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-08-12
 - Ran linter, applied auto-fixes
+
+## 2026-08-12
+- Tidied up project structure
+- Checked for memory leaks in long-running path
+- Added CONTRIBUTING.md stub
