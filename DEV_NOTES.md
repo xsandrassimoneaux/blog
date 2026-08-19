@@ -38,3 +38,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-08-19
 - Addressed feedback from self code review
+
+## 2026-08-19
+- Documented config options
+- Tidied up project structure
+- Reviewed codebase, identified areas for improvement
