@@ -35,3 +35,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Checked for memory leaks in long-running path
 - Added CONTRIBUTING.md stub
+
+## 2026-08-19
+- Addressed feedback from self code review
