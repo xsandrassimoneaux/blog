@@ -43,3 +43,7 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Tidied up project structure
 - Reviewed codebase, identified areas for improvement
+
+## 2026-09-09
+- Added basic retry logic for network requests
+- Refactored module structure for clarity
