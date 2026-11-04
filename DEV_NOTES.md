@@ -59,3 +59,7 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Fixed minor edge case in input handling
 - Added type hints to helper functions
+
+## 2026-11-04
+- Updated CI cache strategy
+- Fixed minor edge case in input handling
