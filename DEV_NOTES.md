@@ -63,3 +63,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-11-04
 - Updated CI cache strategy
 - Fixed minor edge case in input handling
+
+## 2026-11-04
+- Tested build on clean environment
+- Added CONTRIBUTING.md stub
