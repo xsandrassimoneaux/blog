@@ -67,3 +67,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-11-04
 - Tested build on clean environment
 - Added CONTRIBUTING.md stub
+
+## 2026-11-04
+- Added CONTRIBUTING.md stub
+- Verified compatibility with latest runtime version
+- Added healthcheck endpoint stub
